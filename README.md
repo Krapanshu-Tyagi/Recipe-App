@@ -10,8 +10,6 @@ The **Recipe App** is an intuitive mobile application that helps users discover 
 - **Search Functionality**: Quickly search for recipes by ingredients, name, or category.  
 - **Recipe Details**: Get complete recipe details including ingredients, preparation steps, and nutritional information.  
 
-## Screenshots  
-*Include screenshots of key app features like the home screen, recipe details, favorites, and dietary filters.*
 
 ## Technologies Used  
 - **Framework**: [Flutter](https://flutter.dev)  
